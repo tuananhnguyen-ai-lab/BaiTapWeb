@@ -33,13 +33,6 @@ Người mới tự học web thường bị ngợp vì quá nhiều tài liệu
 
 ## Công nghệ sử dụng
 
-- **Frontend:** ReactJS (Next.js), TailwindCSS, React Flow (vẽ cây kỹ năng), Monaco Editor (soạn code trên trình duyệt)
-- **Backend:** Node.js (Express/NestJS), REST API, Socket.IO (chat)
-- **Cơ sở dữ liệu:** PostgreSQL, Redis (cache, phiên đăng nhập)
-- **Chấm bài:** chạy code HTML/CSS/JS trong iframe sandbox, kiểm thử bằng Jest
-- **Xác thực:** JWT, OAuth (Google/GitHub)
-- **AI:** OpenAI API hoặc Gemini API
-- **Triển khai:** Docker, Vercel (frontend), Render/Railway (backend)
 
 ## Cấu trúc thư mục (dự kiến)
 
@@ -55,8 +48,8 @@ Người mới tự học web thường bị ngợp vì quá nhiều tài liệu
 
 ```bash
 # Lấy mã nguồn
-git clone https://github.com/tuananhnguyen-ai-lab/B-i-t-p-Web.git
-cd B-i-t-p-Web
+git clone https://github.com/tuananhnguyen-ai-lab/BaiTapWeb.git
+cd BaiTapWeb
 
 # Chạy backend
 cd backend
