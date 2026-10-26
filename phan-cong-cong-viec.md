@@ -15,7 +15,7 @@ Nguyên tắc: mỗi người phụ trách đúng **1 module** và tự làm c�
 - Hồ sơ cá nhân (ảnh, mục tiêu học, thời gian rảnh)
 - Trang Admin: quản lý tài khoản, khóa/mở, đổi quyền, thống kê người dùng
 
-### Thành viên 2 – M10: LMS/LCMS và tài nguyên học tập
+### Thành viên 2: Tuấn Anh – M10: LMS/LCMS và tài nguyên học tập
 - Cây kỹ năng dạng sơ đồ node (React Flow), khóa/mở khóa node
 - Trang bài học, lộ trình học
 - Bài tập điền code (Monaco Editor), xem trước kết quả, chấm tự động (iframe sandbox + Jest)
@@ -65,6 +65,6 @@ Nguyên tắc: mỗi người phụ trách đúng **1 module** và tự làm c�
 | Họ tên | MSSV | Công việc |
 | :--- | :--- | :--- |
 | Thành viên 1 | | M20 – Tài khoản, SSO, phân quyền; trang Admin; triển khai |
-| Thành viên 2 | | M10 – Cây kỹ năng, bài học, bài tập, chấm bài; trang Mentor; Figma |
+| Tuấn Anh | | M10 – Cây kỹ năng, bài học, bài tập, chấm bài; trang Mentor; Figma |
 | Thành viên 3 | | M12 – Ghép cặp bạn học, chat, trợ lý AI; kiểm thử |
 | Thành viên 4 | | M16 – Test đầu vào, tiến độ, XP, huy hiệu, streak; khảo sát, báo cáo |
