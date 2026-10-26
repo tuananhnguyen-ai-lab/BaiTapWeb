@@ -5,8 +5,6 @@
 
 Nguyên tắc: mỗi người phụ trách đúng **1 module** và tự làm cả giao diện (frontend), API (backend) và bảng dữ liệu của module đó. Ai cũng code ngang nhau.
 
-> M10 nhiều việc nhất nên trợ lý AI giải thích lỗi được chuyển sang M12 (Hỗ trợ người học) cho cân bằng. Thay "Thành viên 1–4" bằng tên thật khi nhóm chốt.
-
 ## Mỗi người một module
 
 ### Thành viên 1 – M20: Tài khoản, SSO và phân quyền
