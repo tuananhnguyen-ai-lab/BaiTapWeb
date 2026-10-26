@@ -19,7 +19,7 @@ Nguyên tắc: mỗi người phụ trách đúng **1 module** và tự làm c�
 - Bài tập điền code (Monaco Editor), xem trước kết quả, chấm tự động (iframe sandbox + Jest)
 - Trang Mentor tạo/sửa bài học, bài tập, node, lộ trình; Admin duyệt nội dung
 
-### Thành viên 3 – M12: Hỗ trợ người học
+### Thành viên 3: Nhữ Hằng – M12: Hỗ trợ người học
 - Quẹt/ghép cặp bạn học cùng lộ trình (Study Buddy)
 - Phòng chat riêng giữa bạn học (Socket.IO), tạo nhóm học
 - Báo cáo/chặn người dùng; Admin xử lý báo cáo vi phạm
@@ -64,5 +64,5 @@ Nguyên tắc: mỗi người phụ trách đúng **1 module** và tự làm c�
 | :--- | :--- | :--- |
 | Thành viên 1 | | M20 – Tài khoản, SSO, phân quyền; trang Admin; triển khai |
 | Tuấn Anh | | M10 – Cây kỹ năng, bài học, bài tập, chấm bài; trang Mentor; Figma |
-| Thành viên 3 | | M12 – Ghép cặp bạn học, chat, trợ lý AI; kiểm thử |
+| Nhữ Hằng| | M12 – Ghép cặp bạn học, chat, trợ lý AI; kiểm thử |
 | Thành viên 4 | | M16 – Test đầu vào, tiến độ, XP, huy hiệu, streak; khảo sát, báo cáo |
