@@ -25,7 +25,7 @@ Nguyên tắc: mỗi người phụ trách đúng **1 module** và tự làm c�
 - Báo cáo/chặn người dùng; Admin xử lý báo cáo vi phạm
 - Trợ lý AI giải thích lỗi bằng tiếng Việt, gợi ý theo mức 1-2-3; Mentor nhận xét bài làm
 
-### Thành viên 4 – Nhi: Đào tạo năng lực số
+### Thành viên 4 – Nhi- M16: Đào tạo năng lực số
 - Test đầu vào, xếp người học vào lộ trình; Admin quản lý ngân hàng câu hỏi
 - Theo dõi tiến độ học tập, XP, huy hiệu, chuỗi ngày học (Streak), bảng xếp hạng
 - Trang thống kê tiến độ người học cho Mentor
